@@ -1,6 +1,9 @@
 en:
   theme_metadata:
     settings:
+      site_logo:
+        type: upload
+        default: ""
       heading:
         description: "Text for the heading in the footer - you can use your site name for example - Max length 25 characters"
       blurb:
