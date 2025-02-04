@@ -1,3 +1,7 @@
+site_logo:
+  type: upload
+  default: ""
+
 heading:
   default: "This is a header"
   max: 25
