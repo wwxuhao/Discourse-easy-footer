@@ -1,6 +1,6 @@
 site_logo:
-  type: upload
   default: ""
+  type: upload
 
 heading:
   default: "This is a header"
